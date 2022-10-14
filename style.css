@@ -4,9 +4,11 @@ h1 {
 }
 
 body {
-    background-color: azure;
+    background-color: rgb(187, 248, 248);
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
+    flex-direction: column;
+    gap: 0.5rem;
 }
